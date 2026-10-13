@@ -1,0 +1,27 @@
+id,fotografia_original,precio_visible,en_pesos_asumidos,observacion
+COL-001,01,$370,370,precio en etiqueta
+COL-002,02,$260,260,precio en etiqueta
+COL-003,03,$230,230,precio en etiqueta
+COL-004,04,$360,360,precio en etiqueta
+PUL-001,05,$260,260,precio en etiqueta
+PUL-002,06,$350,350,precio en etiqueta
+PUL-003,07,$270,270,precio en etiqueta
+PUL-004,08,$200,200,precio en etiqueta
+COL-005,09,$380,380,precio en etiqueta
+COL-006,10,$260,260,precio en etiqueta
+PUL-005,11,$190,190,precio en etiqueta
+ARE-001,12,no visible,,confirmar precio
+ARE-002,13,$70,70,precio en etiqueta
+ANI-001,14,$150,150,precio en etiqueta
+ANI-002,15,$150,150,precio en etiqueta
+ANI-003,16,$150,150,precio en etiqueta
+ANI-004,17,$150,150,precio en etiqueta
+ARE-003,18,$80,80,precio en etiqueta
+ANI-005,19,$150,150,precio en etiqueta
+ARE-004,20 y 27,$100,100,dos fotos del mismo modelo
+ARE-005,21,$60,60,precio en etiqueta
+ARE-006,22,$60,60,precio en etiqueta
+ARE-007,23,$60,60,precio en etiqueta
+ARE-008,24,$60,60,precio en etiqueta
+ARE-009,25,$100,100,precio en etiqueta
+ARE-010,26,$100,100,precio en etiqueta
