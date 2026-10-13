@@ -61,6 +61,7 @@ export function Catalog({
                 if (!normalized) return true;
 
                 const content = [
+                    product.id,
                     product.name,
                     product.description,
                     product.category,
@@ -165,7 +166,7 @@ export function Catalog({
                                 Buscar productos
                             </span>
                             <input
-                                placeholder="Buscar una pieza..."
+                                placeholder="Buscar por nombre o código..."
                                 value={query}
                                 onChange={(event) =>
                                     setQuery(event.target.value)

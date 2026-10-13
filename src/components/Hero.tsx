@@ -1,4 +1,4 @@
-import { ArrowDownRight, ArrowUpRight, MoveUpRight } from 'lucide-react';
+import { ArrowDownRight, ArrowUpRight } from 'lucide-react';
 import { SparkleMark } from './Brand';
 
 export function Hero() {
@@ -29,37 +29,6 @@ export function Hero() {
                     <div className="hero__bottom-note">
                         <SparkleMark small />
                         <span>Tu estilo. Tus reglas. Tu brillo.</span>
-                    </div>
-                </div>
-                <div className="hero__visual">
-                    <div className="hero__backline" aria-hidden="true" />
-                    <div className="hero__photo">
-                        <img
-                            src="/images/hero-infinito.webp"
-                            alt="Anillo de diseño infinito con detalle azul"
-                            fetchPriority="high"
-                        />
-                        <div className="hero__photo-label">
-                            <span>01 — 04</span>
-                            <span>
-                                UNA COLECCIÓN QUE BRILLA{' '}
-                                <MoveUpRight size={13} />
-                            </span>
-                        </div>
-                    </div>
-                    <div className="hero__mini-photo">
-                        <img
-                            src="/images/photo-12.webp"
-                            alt="Aretes de zirconia en tono verde"
-                            loading="lazy"
-                        />
-                    </div>
-                    <div className="hero__round-stamp" aria-hidden="true">
-                        <span>DETALLES QUE INSPIRAN</span>
-                        <SparkleMark small />
-                    </div>
-                    <div className="hero__tiny-index" aria-hidden="true">
-                        SELECCIÓN / 001
                     </div>
                 </div>
             </div>

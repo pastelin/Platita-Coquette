@@ -63,6 +63,7 @@ export function ProductCard({
                     {' · '}
                     {materialLabels[product.material ?? 'plata']}
                 </span>
+                <span className="product-card__sku">Código: {product.id}</span>
                 <button
                     type="button"
                     className="product-card__title-button"
