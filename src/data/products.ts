@@ -40,7 +40,7 @@ export const categories: {
         id: 'collares',
         title: 'Collares',
         tagline: 'Lleva la luz contigo',
-        image: image(4),
+        image: image(10),
     },
     {
         id: 'pulseras',
@@ -65,11 +65,11 @@ export const categories: {
 export const products: Product[] = [
     {
         id: 'COL-001',
-        name: 'Collar Eslabones Sutiles',
+        name: 'Collar de Corazones Entrelazados',
         category: 'collares',
         price: 350,
         description:
-            'Cadena de eslabones finos con una silueta ligera, ideal para llevar sola o en capas.',
+            'Cadena de corazones entrelazados finos con una silueta ligera, ideal para llevar sola o en capas.',
         images: [image(1)],
         featured: true,
         label: 'Popular',
@@ -84,18 +84,18 @@ export const products: Product[] = [
         images: [image(2)],
     },
     {
-        id: 'COL-003',
-        name: 'Collar Cadena Clásica',
-        category: 'collares',
+        id: 'PUL-006',
+        name: 'Pulsera Cadena Clásica',
+        category: 'pulseras',
         price: 350,
         description:
             'Eslabones definidos y un acabado pulido que combinan con todo.',
         images: [image(3)],
     },
     {
-        id: 'COL-004',
-        name: 'Collar Aura',
-        category: 'collares',
+        id: 'PUL-007',
+        name: 'Pulsera Aura',
+        category: 'pulseras',
         price: 180,
         description:
             'Detalles alargados que reflejan la luz y dan movimiento a tu estilo.',
@@ -178,11 +178,11 @@ export const products: Product[] = [
     },
     {
         id: 'ARE-002',
-        name: 'Aretes Mini Destello',
+        name: 'Broqueles Mini Corazón',
         category: 'aretes',
         price: 70,
         description:
-            'Aretes discretos para quienes aman los detalles pequeños.',
+            'Broqueles discretos con forma de corazón para quienes aman los detalles pequeños.',
         images: [image(13)],
     },
     {
